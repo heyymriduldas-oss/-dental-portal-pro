@@ -1,0 +1,13 @@
+# This file tells Vercel which files to ignore during deployment.
+
+# Ignore local environment files
+.env
+
+# Ignore build artifacts
+build/
+
+# Ignore log files
+*.log
+
+# Ignore cache directories
+.cache/
